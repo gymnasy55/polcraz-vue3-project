@@ -1,8 +1,12 @@
 # polcraz-vue3-project
 
-## Project setup
+## Install globally vue cli
 ```
 npm install -g @vue/cli
+```
+
+## Project setup
+```
 npm install
 ```
 
